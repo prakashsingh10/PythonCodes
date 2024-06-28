@@ -1,0 +1,10 @@
+#myself
+print("Name: Prakashman Singh Thakuri")
+print("Pramanent Address: Surkhet Nepal")
+print("Temporary Address: Kalanki Kathmandu")
+print("DOb:10th nov 2004")
+print("father: Ganeshman Singh THakuri")
+print("mother: Maina Kumari Shahi ")
+print("skils: c c++")
+print("I am a Bsc.CSIT student ")
+print("I am intrested in machine learning ")
